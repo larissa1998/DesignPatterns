@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\FactoryMethod\\",
+  "WorkspaceRootPath": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|c:\\users\\larissa\\desktop\\designpatterns\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\factorymethod\\pizzafactorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|solutionrelative:pizzafactorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\factorymethod\\pizzafactoryrj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|solutionrelative:pizzafactoryrj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\factorymethod\\pizzafactorysp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|solutionrelative:pizzafactorysp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\factorymethod\\pizzariasimplefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|solutionrelative:pizzariasimplefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|c:\\users\\larissa\\desktop\\designpatterns\\factorymethod\\simplepizzafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|solutionrelative:simplepizzafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\factorymethod\\tipos\\pizzamussarelarj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|solutionrelative:tipos\\pizzamussarelarj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|c:\\users\\larissa\\desktop\\designpatterns\\factorymethod\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\factorymethod\\tipos\\pizzacalabresasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|solutionrelative:tipos\\pizzacalabresasp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\factorymethod\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|solutionrelative:pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\factorymethod\\tipos\\pizzacalabresarj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2B5B1-7950-4366-80BA-83BDC1CDA287}|FactoryMethod.csproj|solutionrelative:tipos\\pizzacalabresarj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,37 +86,115 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SimplePizzaFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\FactoryMethod\\SimplePizzaFactory.cs",
-              "RelativeDocumentMoniker": "SimplePizzaFactory.cs",
-              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\FactoryMethod\\SimplePizzaFactory.cs",
-              "RelativeToolTip": "SimplePizzaFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PizzaFactoryMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\PizzaFactoryMethod.cs",
+              "RelativeDocumentMoniker": "PizzaFactoryMethod.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\PizzaFactoryMethod.cs",
+              "RelativeToolTip": "PizzaFactoryMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T14:49:43.483Z",
+              "WhenOpened": "2025-10-19T16:21:44.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaMussarelaRj.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\Tipos\\PizzaMussarelaRj.cs",
+              "RelativeDocumentMoniker": "Tipos\\PizzaMussarelaRj.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\Tipos\\PizzaMussarelaRj.cs",
+              "RelativeToolTip": "Tipos\\PizzaMussarelaRj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:21:14.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PizzaCalabresaSp.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\Tipos\\PizzaCalabresaSp.cs",
+              "RelativeDocumentMoniker": "Tipos\\PizzaCalabresaSp.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\Tipos\\PizzaCalabresaSp.cs",
+              "RelativeToolTip": "Tipos\\PizzaCalabresaSp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:21:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PizzaCalabresaRj.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\Tipos\\PizzaCalabresaRj.cs",
+              "RelativeDocumentMoniker": "Tipos\\PizzaCalabresaRj.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\Tipos\\PizzaCalabresaRj.cs",
+              "RelativeToolTip": "Tipos\\PizzaCalabresaRj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:21:12.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PizzaFactorySP.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\PizzaFactorySP.cs",
+              "RelativeDocumentMoniker": "PizzaFactorySP.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\PizzaFactorySP.cs",
+              "RelativeToolTip": "PizzaFactorySP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:21:00.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaFactoryRj.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\PizzaFactoryRj.cs",
+              "RelativeDocumentMoniker": "PizzaFactoryRj.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\PizzaFactoryRj.cs",
+              "RelativeToolTip": "PizzaFactoryRj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:20:57.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzariaSimpleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\PizzariaSimpleFactory.cs",
+              "RelativeDocumentMoniker": "PizzariaSimpleFactory.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\PizzariaSimpleFactory.cs",
+              "RelativeToolTip": "PizzariaSimpleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:20:41.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Pizza.cs",
-              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\FactoryMethod\\Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\Pizza.cs",
               "RelativeDocumentMoniker": "Pizza.cs",
-              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\FactoryMethod\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\Pizza.cs",
               "RelativeToolTip": "Pizza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T14:43:41.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\FactoryMethod\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\FactoryMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\FactoryMethod\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

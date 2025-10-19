@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\factory\\abstractfactory\\pizzafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:factory\\abstractfactory\\pizzafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\factory\\abstractfactory\\bolofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:factory\\abstractfactory\\bolofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\factory\\abstractfactory\\massaabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:factory\\abstractfactory\\massaabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\domain\\products\\pizzamussarela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:domain\\products\\pizzamussarela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\domain\\products\\pizzacalabresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:domain\\products\\pizzacalabresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\domain\\products\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:domain\\products\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\domain\\products\\bolochocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:domain\\products\\bolochocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\domain\\products\\bolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:domain\\products\\bolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\domain\\products\\massabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:domain\\products\\massabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\domain\\enums\\tipopizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:domain\\enums\\tipopizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\domain\\enums\\tipomassa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:domain\\enums\\tipomassa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|c:\\users\\larissa\\desktop\\designpatterns\\abstractfactory\\domain\\enums\\tipobolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C009E350-3498-4132-AFF5-0702B5E32798}|AbstractFactory.csproj|solutionrelative:domain\\enums\\tipobolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MassaAbstractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Factory\\AbstractFactory\\MassaAbstractFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\AbstractFactory\\MassaAbstractFactory.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Factory\\AbstractFactory\\MassaAbstractFactory.cs",
+              "RelativeToolTip": "Factory\\AbstractFactory\\MassaAbstractFactory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:53:35.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Factory\\AbstractFactory\\PizzaFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\AbstractFactory\\PizzaFactory.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Factory\\AbstractFactory\\PizzaFactory.cs",
+              "RelativeToolTip": "Factory\\AbstractFactory\\PizzaFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:53:25.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoloFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Factory\\AbstractFactory\\BoloFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\AbstractFactory\\BoloFactory.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Factory\\AbstractFactory\\BoloFactory.cs",
+              "RelativeToolTip": "Factory\\AbstractFactory\\BoloFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:53:16.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzaMussarela.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Products\\PizzaMussarela.cs",
+              "RelativeDocumentMoniker": "Domain\\Products\\PizzaMussarela.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Products\\PizzaMussarela.cs",
+              "RelativeToolTip": "Domain\\Products\\PizzaMussarela.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:44:28.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaCalabresa.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Products\\PizzaCalabresa.cs",
+              "RelativeDocumentMoniker": "Domain\\Products\\PizzaCalabresa.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Products\\PizzaCalabresa.cs",
+              "RelativeToolTip": "Domain\\Products\\PizzaCalabresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:44:20.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MassaBase.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Products\\MassaBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Products\\MassaBase.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Products\\MassaBase.cs",
+              "RelativeToolTip": "Domain\\Products\\MassaBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:44:10.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Products\\Pizza.cs",
+              "RelativeDocumentMoniker": "Domain\\Products\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Products\\Pizza.cs",
+              "RelativeToolTip": "Domain\\Products\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:44:04.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoloChocolate.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Products\\BoloChocolate.cs",
+              "RelativeDocumentMoniker": "Domain\\Products\\BoloChocolate.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Products\\BoloChocolate.cs",
+              "RelativeToolTip": "Domain\\Products\\BoloChocolate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:43:48.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bolo.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Products\\Bolo.cs",
+              "RelativeDocumentMoniker": "Domain\\Products\\Bolo.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Products\\Bolo.cs",
+              "RelativeToolTip": "Domain\\Products\\Bolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:43:41.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TipoPizza.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Enums\\TipoPizza.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\TipoPizza.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Enums\\TipoPizza.cs",
+              "RelativeToolTip": "Domain\\Enums\\TipoPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:43:31.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TipoMassa.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Enums\\TipoMassa.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\TipoMassa.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Enums\\TipoMassa.cs",
+              "RelativeToolTip": "Domain\\Enums\\TipoMassa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:43:25.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoBolo.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Enums\\TipoBolo.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\TipoBolo.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Domain\\Enums\\TipoBolo.cs",
+              "RelativeToolTip": "Domain\\Enums\\TipoBolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:43:18.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\AbstractFactory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:27:06.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
