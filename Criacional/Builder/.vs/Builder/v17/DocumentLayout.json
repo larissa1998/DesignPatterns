@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\Builder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16B3E8ED-0F44-48BF-BBBC-5AAF89F6A476}|Builder.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B3E8ED-0F44-48BF-BBBC-5AAF89F6A476}|Builder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B3E8ED-0F44-48BF-BBBC-5AAF89F6A476}|Builder.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\builder\\product\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B3E8ED-0F44-48BF-BBBC-5AAF89F6A476}|Builder.csproj|solutionrelative:product\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B3E8ED-0F44-48BF-BBBC-5AAF89F6A476}|Builder.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\builder\\director\\pizzaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B3E8ED-0F44-48BF-BBBC-5AAF89F6A476}|Builder.csproj|solutionrelative:director\\pizzaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B3E8ED-0F44-48BF-BBBC-5AAF89F6A476}|Builder.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\builder\\concretebuilder\\pizzacalabresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B3E8ED-0F44-48BF-BBBC-5AAF89F6A476}|Builder.csproj|solutionrelative:concretebuilder\\pizzacalabresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B3E8ED-0F44-48BF-BBBC-5AAF89F6A476}|Builder.csproj|c:\\users\\larissa\\desktop\\designpatterns\\criacional\\builder\\builder\\pizzabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B3E8ED-0F44-48BF-BBBC-5AAF89F6A476}|Builder.csproj|solutionrelative:builder\\pizzabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pizzaria.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\Builder\\Director\\Pizzaria.cs",
+              "RelativeDocumentMoniker": "Director\\Pizzaria.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\Builder\\Director\\Pizzaria.cs",
+              "RelativeToolTip": "Director\\Pizzaria.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:25:25.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaCalabresa.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\Builder\\ConcreteBuilder\\PizzaCalabresa.cs",
+              "RelativeDocumentMoniker": "ConcreteBuilder\\PizzaCalabresa.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\Builder\\ConcreteBuilder\\PizzaCalabresa.cs",
+              "RelativeToolTip": "ConcreteBuilder\\PizzaCalabresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:21:24.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzaBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\Builder\\Builder\\PizzaBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\PizzaBuilder.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\Builder\\Builder\\PizzaBuilder.cs",
+              "RelativeToolTip": "Builder\\PizzaBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:19:02.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\Builder\\Product\\Pizza.cs",
+              "RelativeDocumentMoniker": "Product\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\Builder\\Product\\Pizza.cs",
+              "RelativeToolTip": "Product\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:16:45.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Larissa\\Desktop\\DesignPatterns\\Criacional\\Builder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:12:49.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
